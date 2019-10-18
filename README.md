@@ -5,7 +5,7 @@ A Simple and Efficient Audio Resampler Implementation in C.
  
 	在源码目录直接执行
 	cmake && make
-	./resampler	input.wav output.wav
+	./resampler input.wav output.wav
 
 
 # Donating
